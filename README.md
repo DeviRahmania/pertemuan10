@@ -1,6 +1,6 @@
 # # **PERTEMUAN 10 (latihan 1)**
 pada latiahan 1 saya diberi soal sebagai berikut:
-![img](gambar/soalL1.PNG)
+![img](gambar/soalL1.png)
 ## JAWAB
 >pertama
 
@@ -60,9 +60,9 @@ del b['dina']
 
 # PERTEMUAN 10 (TUGAS PRAKTIKUM)
 pada tugas praktium saya diberi soal sebagai berikut
-![img](gambar/soal2.PNG) 
+![img](gambar/soal2.png) 
 ## flowchart
-![img](gambar/flowchart.PNG)
+![img](gambar/flowchart.png)
 ## JAWAB
 pertama saya membuat looping agar program terus berjalan
 ```py
